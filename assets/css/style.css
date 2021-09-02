@@ -157,7 +157,7 @@ a, ul {
 
 .hero {
     position: relative;
-    background: url('./assets/img/chicago.jpg') center center/ cover no-repeat;
+    background: url('../img/chicago.jpg') center center/ cover no-repeat;
     margin-top: 46px;
     padding-top: 50%;
 }
